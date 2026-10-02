@@ -109,7 +109,7 @@ Built with **pure PHP** (no frameworks) and **MySQL**, this project emphasizes *
 
 ```bash
 cd C:\xampp\htdocs
-git clone https://github.com/YOUR_USERNAME/car-rental-system.git
+https://github.com/dilshankumara001001/-Car-Rental-Management-System
 cd car-rental-system
 ```
 
